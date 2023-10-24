@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "Name": "Amitkumar",
+      "Email": "amitkumar@gmail.com",
+      "Password": "test@password",
+      "id": 1
+    },
+    {
+      "Name": "Amitkumar",
+      "Email": "ravat@gmail.com",
+      "Password": "ravat@123",
+      "id": 2
+    },
+    {
+      "Name": "AmitkumarRavat",
+      "Email": "amit@gmail.com",
+      "Password": "amit@123",
+      "id": 3
+    }
+  ],
+  "Restaurants": [
+    {
+      "Name": "KFC",
+      "Address": "Junagadh talav",
+      "Contact": "123456",
+      "id": 1
+    },
+    {
+      "Name": "Pizza",
+      "Address": "Maliya hatina chowk",
+      "Contact": "87398123",
+      "id": 2
+    },
+    {
+      "Name": "Gathiya palour",
+      "Address": "Maliya hatina",
+      "Contact": "7849374843",
+      "id": 3
+    },
+    {
+      "Name": "Vanila",
+      "Address": "Keshod char",
+      "Contact": "907823434",
+      "id": 4
+    }
+  ]
+}
